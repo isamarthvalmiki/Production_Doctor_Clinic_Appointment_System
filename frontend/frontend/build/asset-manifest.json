@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/static/css/main.df45ef31.css",
+    "main.js": "/static/js/main.0b3e9d60.js",
+    "static/js/787.cda612ba.chunk.js": "/static/js/787.cda612ba.chunk.js",
+    "static/media/Physician.jpg": "/static/media/Physician.62d38afe4aa64c389720.jpg",
+    "index.html": "/index.html",
+    "main.df45ef31.css.map": "/static/css/main.df45ef31.css.map",
+    "main.0b3e9d60.js.map": "/static/js/main.0b3e9d60.js.map",
+    "787.cda612ba.chunk.js.map": "/static/js/787.cda612ba.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.df45ef31.css",
+    "static/js/main.0b3e9d60.js"
+  ]
+}
